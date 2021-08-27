@@ -85,9 +85,9 @@ img#circle{
     max-height: 400px;
 }
 .links{
-    grid-column: 2/6;
+    grid-column: 3/6;
     grid-row: 6;
-    text-align: center;
+    /* text-align: center; */
     margin-left: 13%;
 }
 .click{
@@ -100,7 +100,7 @@ img#circle{
     color: white;
     /* border-radius: 50%; */
     /* border-radius: 50%; */
-    margin-right: 50px;
+    /* margin-right: 50px; */
     /* height: 50px;
     width: 50px; */
 }
